@@ -24,7 +24,7 @@ class CloudinaryAdapter extends BaseAdapter {
     save(image, targetDir) {
         var cloudinaryImageSetting = this.config.configuration;
         var options = this.config.hasOwnProperty('folderPath') ?
-            {public_id: cloudinaryImageSetting.folderPath + image.filename} : {};
+            {public_id: this.config.folderPath + image.filename} : {};
         return new Promise(function (resolve) {
             cloudinary.v2.uploader.upload(image.path, options,
                 function (error, result) {
