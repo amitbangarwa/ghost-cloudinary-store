@@ -103,4 +103,4 @@ You can find the documentation of what you can configure, directly on the Cloudi
 [1]: #editing-configproductionjson
 [2]: http://cloudinary.com/documentation/node_additional_topics#configuration_options
 [3]: https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-a-linux-vps
-[4]: https://github.com/sethbrasile/ghost-cloudinary-store/issues/1# ghost-cloudinary-store
+[4]: https://github.com/amitbangarwa/ghost-cloudinary-store/issues/1
