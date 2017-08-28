@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sethbrasile/ghost-cloudinary-store"
+    "url": "https://github.com/amitbangarwa/ghost-cloudinary-store"
   },
   "bugs": {
-    "url": "https://github.com/sethbrasile/ghost-cloudinary-store/issues"
+    "url": "https://github.com/amitbangarwa/ghost-cloudinary-store/issues"
   },
   "author": "Amit Bangarwa <amit.bangarwa@gmail.com>",
   "license": "ISC",
